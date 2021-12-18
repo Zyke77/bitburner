@@ -2,7 +2,7 @@ const settings = {
   maxPlayerServers: 25,
   gbRamCost: 55000,
   maxGbRam: 52488,
-  minGbRam: 64,
+  minGbRam: 8,
   totalMoneyAllocation: 0.9,
   actions: {
     BUY: 'buy',
